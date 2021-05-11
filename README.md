@@ -1,2 +1,2 @@
-# Hamb-rgueria
+# Burguer
 Repositório para projeto integrador 
